@@ -134,6 +134,7 @@ let earlWizard = new Wizard('Earl', 'jaundiced', 'Upside down polar bear lightni
 
 let jakeCentaur = new Centaur('Jake', 'tall for my age', 'average sized');
 
+/******** Uncomment chunks below to test the each class instance's functionality ********/
 
 //Centaur
 jakeCentaur.slash();
@@ -143,6 +144,7 @@ jakeCentaur.speak();
 
 // //Horse
 // daleHorse.gallup();
+// daleHorse.logLegs();
 
 // //Unicorn
 // favioUnicorn.gallup();
@@ -159,6 +161,7 @@ jakeCentaur.speak();
 
 // Human
 // timHuman.speak();
+// timHuman.logLegs();
 
 // //thief
 // tomTheif.speak();
