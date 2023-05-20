@@ -174,3 +174,8 @@ jakeCentaur.speak();
 // janicePirate.sail();
 // janicePirate.logLegs();
 
+// //wizard
+// earlWizard.speak();
+// earlWizard.castSpell();
+// earlWizard.logLegs();
+
